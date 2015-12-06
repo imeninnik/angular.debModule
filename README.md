@@ -1,4 +1,4 @@
-# Angular Debug Anf Logger Module
+# Angular Debug And Logger Module
 
 
 ## Usage
